@@ -8,7 +8,7 @@
   <a href="https://it.linkedin.com/in/andreasantilli"><img alt="LinkedIn" title="LinkedIn"src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-I am a PhD student in Computer Science at [GLADIA](https://gladia.di.uniroma1.it), Sapienza University of Rome (one of the top European universities in AI according to [CS ranking](http://csrankings.org/#/index?ai&vision&mlmining&nlp&ir&europe)). My research activity lies at the intersection of natural language processing, representation learning and machine intelligence.
+I am a PhD student in Computer Science at [GLADIA](https://gladia.di.uniroma1.it), Sapienza University of Rome (one of the top European universities in AI according to [CS ranking](https://csrankings.org/#/index?ai&vision&mlmining&nlp&europe)). My research activity lies at the intersection of natural language processing, representation learning and machine intelligence.
 
 ---
 
